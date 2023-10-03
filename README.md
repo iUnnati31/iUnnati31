@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Unnati Agarwal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+
+<h2>👨‍💻 About Me:</h2>
+<ul type="circle">
+  <li>I'm a passionate full stack developer📈</li>
+  <li>I love the thrill of making websites look beautiful and work interactively and engageable.</li>
+  <li>Currently exploring the different frameworks of full stack development. 📊🔍</li>
+ </ul>
+ 
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400px" align ="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iunnati31&label=Profile%20views&color=0e75b6&style=flat" alt="iunnati31" /> </p>
 
