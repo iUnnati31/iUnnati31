@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Unnati Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400px" align ="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iunnati31&label=Profile%20views&color=0e75b6&style=flat" alt="iunnati31" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
