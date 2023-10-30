@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 About Me:</h2>
 <ul type="circle">
-  <li>I'm a passionate full stack developer📈</li>
-  <li>I love the thrill of making websites look beautiful and work interactively and engageable.</li>
-  <li>Currently exploring the different frameworks of full stack development. 📊🔍</li>
+  <li>I'm a passionate Data Enthusiast📈</li>
+  <li>I love the thrill of playing with data.</li>
+  <li>Currently exploring the different Data Science Tools and Technologies. 📊🔍</li>
  </ul>
  
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400px" align ="right">
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="400px" align ="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iunnati31&label=Profile%20views&color=0e75b6&style=flat" alt="iunnati31" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iUnnati31](https://github.com/iUnnati31)
 
-- 💬 Ask me about **frontend and backend technologies**
+- 💬 Ask me about **Data Science and related technologies**
 
 - 📫 How to reach me **shubhi5024@gmail.com**
 
