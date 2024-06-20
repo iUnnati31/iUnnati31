@@ -4,17 +4,17 @@
 <ul type="circle">
   <li>I'm a passionate Data Science and AI/ML Enthusiast📈</li>
   <li>I love the thrill of playing with data.💡</li>
-  <li>Currently exploring the field of NLP and Generative AI. 🤖🧠</li>
+  <li>Currently working on the field of NLP and Generative AI. 🤖🧠</li>
  </ul>
  
 <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="400px" align ="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iunnati31&label=Profile%20views&color=0e75b6&style=flat" alt="iunnati31" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Generative AI Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iUnnati31](https://github.com/iUnnati31)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/iUnnati31)
 
-- 💬 Ask me about **Data Science and related technologies**
+- 💬 Ask me about **Data Science and AI/ML related technologies**
 
 - 📫 How to reach me **shubhi5024@gmail.com**
 
